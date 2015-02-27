@@ -18,8 +18,9 @@ Simply
 
 ## TODO
 
-It is hard to actually set the picture for all spaces, so this unfortunately
-only works for the current space 😭.
+- Supports OS X only at the moment
+- OS X: It is hard to actually set the picture for all spaces, so thi
+	unfortunately only works for the current space 😭.
 
 ## Contributing
 
