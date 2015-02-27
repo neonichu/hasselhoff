@@ -1,0 +1,11 @@
+Style/Tab:
+  Enabled: false
+
+Style/IndentationWidth:
+  Enabled: false
+
+Style/AccessModifierIndentation:
+  Enabled: false
+
+Lint/UselessSetterCall:
+  Enabled: false

@@ -1,26 +1,25 @@
 # Hasselhoff
 
-TODO: Write a gem description
+Saves you the hassle of setting a Hoff desktop picture manually.
 
 ## Installation
-
-Add this line to your application's Gemfile:
-
-```ruby
-gem 'hasselhoff'
-```
-
-And then execute:
-
-    $ bundle
-
-Or install it yourself as:
 
     $ gem install hasselhoff
 
 ## Usage
 
-TODO: Write usage instructions here
+Simply
+
+	$ hasselhoff
+
+💥
+
+![Screenshot of a desktop picture of Hasselhoff](screenshots/shot.png)
+
+## TODO
+
+It is hard to actually set the picture for all spaces, so this unfortunately
+only works for the current space 😭.
 
 ## Contributing
 
