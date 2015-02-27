@@ -1,0 +1,4 @@
+# Looking for freedom...
+module Hasselhoff
+  VERSION = '0.0.1'
+end
