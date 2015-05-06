@@ -18,13 +18,14 @@ Simply
 
 ## TODO
 
+- More and better Hasselhoff pictures should be included
 - Supports OS X only at the moment
-- OS X: It is hard to actually set the picture for all spaces, so thi
+- OS X: It is hard to actually set the picture for all spaces, so this
 	unfortunately only works for the current space 😭.
 
 ## Contributing
 
-1. Fork it ( https://github.com/[my-github-username]/hasselhoff/fork )
+1. Fork it ( https://github.com/neonichu/hasselhoff/fork )
 2. Create your feature branch (`git checkout -b my-new-feature`)
 3. Commit your changes (`git commit -am 'Add some feature'`)
 4. Push to the branch (`git push origin my-new-feature`)
